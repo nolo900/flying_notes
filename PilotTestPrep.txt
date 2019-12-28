@@ -154,7 +154,28 @@ Airspace:
             - Day: 1mi Vis, Clear of Clouds
             - Night: 3mi Vis, 1000ft Above, 500ft Below, 2000ft Horz
 
-    When Towers are closed, Airspace reverts to Class E or G
+    - When Towers are closed, Airspace reverts to Class E or G
+
+    - Special Use Airspaces: [can access]
+        - Military Operations Area (MOA) [YES]
+        - Controlled Firing Area [YES]
+        - Alert Area [YES]
+        - National Security Area [YES]
+        - Restricted [Only w/Prior Permission, usually from DOD -> check briefer/charts for operation times]
+        - Prohibited [NO]
+    
+    - Airways:
+        - Can fly on Victor or Military Training Routes
+    
+    - VFR Altitudes:
+        - Can fly at any altitude below 3000ft AGL
+        - When flying magnetic course of   0 - 179 Deg, Odd  Plus 500ft, Ex: 3500ft, 5500ft
+        - When flying magnetic course of 180 - 359 Deg, Even Plus 500ft, Ex: 4500ft, 6500ft
+        - Minimum Safe Altitudes:
+            - Over Congested Areas: 1000ft Above the highest object within 2000ft horizontally
+            - Over Unpopulated Areas: 500ft AGL
+            - Over Open Water or Sparsely Populated Areas:  500ft from any person, vessel, vehicle, structure;
+            - Anywhere: an altitude that provides a safe emergency landing without undue harm to persons or property on the Ground
 
 
 
@@ -166,3 +187,4 @@ Airworthness Directives, where do I find them? How do I know about them?
 What Constitues 'Anti-Collision' Lights? Beacon? Strobes?
 Why are weather minimums less for a class B?
 Still need radio & Transponder if in class E and under B/C shelves?
+How Do I get permission to fly in Special Use Airspaces?
