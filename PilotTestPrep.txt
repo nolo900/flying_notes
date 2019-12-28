@@ -1,0 +1,168 @@
+Pilot Test Prep
+===============
+
+Airplane Inspections:
+    - Annual -> 24mo
+    - 100hr (Only needed for aircraft used for Compensation or Hire)
+    - Transponder -> 24mo
+    - Pitot Static -> 24mo
+    - ELT -> 12mo (Replace Battery after 1/2 of life or 30mins of use)
+    - Maintain Airworthness Directives ( typical for Cessnas -> ['Inspect Fuel Lines', 'Replace Air Filter', 'Inspect Seat Track'])
+
+Pilot Currency:
+    - Flight Review -> every 2yrs
+    - 3 Takeoffs/Landings in 90 days to carry passengers
+    - 3 Takeoffs/Landings in 90 days @ Night to carry passengers @ Night
+        Night = 1hr after sunset to 1hr before sunrise
+
+Aircraft Documents:
+    - Airworthness Certificate
+    - Registration -> lasts 3yrs
+    - POH
+    - Weight & Balance sheet
+
+Pilot Documents:
+    - Photo ID
+    - Pilot Certificate
+    - Medical Certificate
+
+Medical Certificate Validity:
+            [ '3rd Class', '2nd Class', '1st Class' ],
+    <40yo   [ '60 months', '24 months', '12 months' ],
+   >=40yo   [ '24 months', '12 months', '6  months' ],
+
+Pilot Privileges:
+    - VFR, Day or Night
+    - Marginal VFR: at least 1000-3000ft ceiling or 3-5mi visibility
+    - Basic VFR: >= 3000ft ceiling or 5 mi visibility 
+    - International allowed with Radio Cert & Insurance Adjustment/Waiver
+
+Additional Training Required for:
+    - Tailwheel
+    - High Horsepower (>200hp)
+    - Complex (Retractable Gear, Adjustable Pitch Prop (or FADEC), Movable Flaps)
+    - High Altitude (Aircraft w/Service Ceiling >25k ft)
+
+New Ratings Required for:
+    - Rotorcraft
+    - Lighter than Air
+    - Float Plane
+    - Glider
+
+Cost Reimbursement: 50% Pro-Rata Share
+
+Required Instruments: 
+    DAY VFR:
+        - Airspeed
+        - Altimeter
+        - Compass
+        - Fuel Gagues
+        - Oil Temp
+        - Oil Pressure
+        - Water Temp (for Liquid-Cooled Engines)
+        - Tachometer
+        - Manifold Pressure (for Adj Pitch Props)
+        - Landing Gear Indicator (for Aircraft w/ RG)
+        - Flotation Equipment (if over water)
+        - Seat Belts
+        - ELT
+        * Memorize FAR 91-205
+    NIGHT VFR:
+        - Fuses
+        - Electric Landing Light
+        - Anti-Collision Light
+        - Position Lights [Red: Left, Right: Green]
+        - Source Of Electricity
+
+Minimum Fuel:
+    DAY: 30min Reserve
+    NIGHT: 45min Reserve
+
+Airspace:
+    - A: 
+        - 18,000ft to 60,000ft
+        - IFR Only
+        - Speed Limit: Mach 1
+        - Need Clearance before entering
+        - Use Pressure Altitude (Alt set to 29.92)
+    - B:
+        - 30mi Radius
+        - Usually SFC to 10,000ft MSL
+        - Mutiple Shelves
+        - Sectional -> Solid Blue Lines
+        - Clearance to Enter from Approach
+        - No SVFR
+        - Weather Minimums: 3mi vis, Clear of Clouds
+        - Speed limit: 250kts
+        - Requires -> Radio & Transponder
+        * Under Shelves
+            - Speed limit: 200kts
+            - Requires Transponder
+        Entry Sequence:
+            - ATIS
+            - Approach
+            - Tower
+            - Ground
+        Departure Sequence:
+            - ATIS
+            - Clearance
+            - Ground
+            - Tower
+    - C:
+        - 20mi Radius
+        - Usually SFC to 4000ft AGL 
+        - Sectional -> Solid Magenta Circles
+        - Requires -> Radio & Transponder
+        - Weather Minimums: 3mi vis, 1000ft Above, 500ft Below, 2000ft Horz
+        - Speed Limit: 200kts
+        Entry Sequence:
+            - ATIS
+            - Approach
+            - Tower
+            - Ground
+        Departure Sequence:
+            - ATIS
+            - Clearance
+            - Ground
+            - Tower
+    - D:
+        - 4mi Radius
+        - Usually SFC to 2500ft AGL
+        - Requires -> Radio ( & Transponder if under class B)
+        - Weather Minimums: 3mi vis, 1000ft Above, 500ft Below, 2000ft Horz
+        - Speed Limit: 200kts
+        - Entry Sequence: 
+            - ATIS
+            - Ground
+            - Tower
+        - Departure:
+            - ATIS
+            - Ground
+            - Tower
+    - E: 
+        - Controlled Airspace
+        - 700 or 1200ft up to as high as 17,999ft
+        - No radio or Transponder Required if outside B,C,D
+        - Weather minimums: 3mi Vis, 1000ft Above, 500ft Below, 2000ft Horz
+            - Above 10,000ft, 5mi Vis, 1000ft Above, 1000ft Below, 1mi Horz
+        - Class E @ SFC identified by Segmented Magenta Circle
+
+    - G: 
+        - Uncontrolled Airspace
+        - SFC to 700 or 1200ft AGL, up to as high as 14,500ft MSL
+        - Weather Minimums:
+            - Day: 1mi Vis, Clear of Clouds
+            - Night: 3mi Vis, 1000ft Above, 500ft Below, 2000ft Horz
+
+    When Towers are closed, Airspace reverts to Class E or G
+
+
+
+QUESTIONS
+=========
+Advisory Circulars, where do I find them? How do I know about them?
+Airmets vs Sigmets? 
+Airworthness Directives, where do I find them? How do I know about them?
+What Constitues 'Anti-Collision' Lights? Beacon? Strobes?
+Why are weather minimums less for a class B?
+Still need radio & Transponder if in class E and under B/C shelves?
