@@ -2,7 +2,7 @@ Pilot Test Prep
 ===============
 
 Airplane Inspections:
-    - Annual -> 24mo
+    - Annual
     - 100hr (Only needed for aircraft used for Compensation or Hire)
     - Transponder -> 24mo
     - Pitot Static -> 24mo
@@ -50,7 +50,6 @@ New Ratings Required for:
     - Glider
 
 Cost Reimbursement: 50% Pro-Rata Share
-
 Required Instruments: 
     DAY VFR:
         - Airspeed
@@ -167,20 +166,103 @@ Airspace:
     - Airways:
         - Can fly on Victor or Military Training Routes
     
-    - VFR Altitudes:
-        - Can fly at any altitude below 3000ft AGL
-        - When flying magnetic course of   0 - 179 Deg, Odd  Plus 500ft, Ex: 3500ft, 5500ft
-        - When flying magnetic course of 180 - 359 Deg, Even Plus 500ft, Ex: 4500ft, 6500ft
-        - Minimum Safe Altitudes:
-            - Over Congested Areas: 1000ft Above the highest object within 2000ft horizontally
-            - Over Unpopulated Areas: 500ft AGL
-            - Over Open Water or Sparsely Populated Areas:  500ft from any person, vessel, vehicle, structure;
-            - Anywhere: an altitude that provides a safe emergency landing without undue harm to persons or property on the Ground
+VFR Altitudes:
+    - Can fly at any altitude below 3000ft AGL
+    - When flying magnetic course of   0 - 179 Deg, Odd  Plus 500ft, Ex: 3500ft, 5500ft
+    - When flying magnetic course of 180 - 359 Deg, Even Plus 500ft, Ex: 4500ft, 6500ft
+    * Magnetic course = True Course + Magnetic Variation; Don't factor wind correction angle with determining VFR altitude.
+    - Minimum Safe Altitudes:
+        - Over Congested Areas: 1000ft Above the highest object within 2000ft horizontally
+        - Over Unpopulated Areas: 500ft AGL
+        - Over Open Water or Sparsely Populated Areas:  500ft from any person, vessel, vehicle, structure;
+        - Anywhere: an altitude that provides a safe emergency landing without undue harm to persons or property on the Ground
+    - TRSA (Terminal Radar Service Area)
+        - Optional to use
+        - Contact Approach to Use
+LAHSO (Land & Hold Short Operations):
+    - Ex: Hartsfield & Savannah
+    - Optional
+    - To not accept under marginal conditions
+Spin Recovery:
+    - PARE
+        - Power to Idol
+        - Ailerons neutral
+        - Opposite Rudder
+        - Elevator to lower nose (to gain airspeed and resore control authority)
+        - Raise Nose and restore level Flight
+Wake Turbulence:
+    - Stay above glide path of other aircraft when landing behind
+    - Takeoff before rotation point of other aircraft
+    - Land after touchdown point of other aircraft
+Negative Affects on Performance:
+    - Heat
+    - Humidity
+    - Altitude
 
-
+Systems:
+    704RB (C-172S): 
+        Engine: Lycoming IO-360-L2A 
+            - Normally aspirated 
+            - Direct drive 
+            - Air-cooled
+            - Horizontally opposed 
+            - Fuel injected 
+            - Four cylinder engine with 360 cu. in. displacement.
+            - 180bhp @ 2700RPM
+        Fuel:
+            - 2, 28gal wing tanks, 
+            - Usable capacity per tank is 26.5
+            - Total usuable fuel capacity 53Gal
+            - Gravity Fed fuel system
+            - Engine driven fuel pump with Aux pump for priming
+            - Fuel injected
+            - 5 drain sumps under each wing, 3 under engine
+        Electrical:
+            - 28V System, Battery is 24V, 
+            - Alternator outputs 60AMPS
+    73924:
+        Engine: ?  
+            - Normally aspirated 
+            - Direct drive 
+            - Air-cooled
+            - Horizontally opposed 
+            - Carborated
+            - Four cylinder engine with 360 cu. in. displacement.
+            - 180bhp @ 2700RPM
+        Fuel:
+            - 2, ???gal wing tanks, 
+            - Usable capacity per tank is...
+            - Gravity Fed fuel system
+            - Engine driven fuel pump with manual priming
+            - 1 drain sumps under each wing, 1 under engine
+        Electrical:
+            - 14V System, Battery is 12V, 
+            - Alternator outputs ??AMPS
+    Both (Cessnas): 
+        Oil:
+            - 8 Quart capacity
+            - Engine driven pump circulated oil
+        Brakes:
+            - Hydralic
+            - Foot operated
+            - Caliper on each main wheel
+        Ignition:
+            - 2 engine driven magnetos
+            - 8 Spark plugs
+            - Electric Starter
+        Pitot Static:
+            - Tubes and Balloons, measures
+                - Airspeed
+                - Altitude
+                - Vertical Speed
+            - Blocked pitot tube indicated by airspeed reading 0
+        
 
 QUESTIONS
 =========
+What inspections/work is done on an Annual or 100hr inspection?
+Compass Inspection Period? 
+What Gagues run on vacuum system?
 Advisory Circulars, where do I find them? How do I know about them?
 Airmets vs Sigmets? 
 Airworthness Directives, where do I find them? How do I know about them?
@@ -188,3 +270,5 @@ What Constitues 'Anti-Collision' Lights? Beacon? Strobes?
 Why are weather minimums less for a class B?
 Still need radio & Transponder if in class E and under B/C shelves?
 How Do I get permission to fly in Special Use Airspaces?
+Why Ailerons neutral in spin recovery? Why wouldn't you want to turn against the spin?
+What engine does 73924 have? Fuel tanks?
