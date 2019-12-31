@@ -33,7 +33,7 @@ Medical Certificate Validity:
 
 Pilot Privileges:
     - VFR, Day or Night
-    - Marginal VFR: at least 1000-3000ft ceiling or 3-5mi visibility
+    - Marginal VFR: 1000-3000ft ceiling or 3-5mi visibility
     - Basic VFR: >= 3000ft ceiling or 5 mi visibility 
     - International allowed with Radio Cert & Insurance Adjustment/Waiver
 
@@ -48,27 +48,32 @@ New Ratings Required for:
     - Lighter than Air
     - Float Plane
     - Glider
+    - Multi-engine
 
 Cost Reimbursement: 50% Pro-Rata Share
 Required Instruments: 
-    DAY VFR:
+    DAY VFR: (Acronym => 'A TOMATO FLAMES')
         - Airspeed
-        - Altimeter
-        - Compass
-        - Fuel Gagues
-        - Oil Temp
-        - Oil Pressure
-        - Water Temp (for Liquid-Cooled Engines)
+        
         - Tachometer
+        - Oil Temp
         - Manifold Pressure (for Adj Pitch Props)
+        - Altimeter
+        - Temp (Water) (for Liquid-Cooled Engines)
+        - Oil Pressure
+
+        - Fuel Gauges
         - Landing Gear Indicator (for Aircraft w/ RG)
-        - Flotation Equipment (if over water)
-        - Seat Belts
+        - Anti-collision Lights
+        - Magnetic Compass
         - ELT
+        - Seat Belts
+
         * Memorize FAR 91-205
-    NIGHT VFR:
+        - Flotation Equipment (if over water)
+    NIGHT VFR: (Acronym => 'FLAPS')
         - Fuses
-        - Electric Landing Light
+        - Landing Light
         - Anti-Collision Light
         - Position Lights [Red: Left, Right: Green]
         - Source Of Electricity
@@ -154,7 +159,6 @@ Airspace:
             - Night: 3mi Vis, 1000ft Above, 500ft Below, 2000ft Horz
 
     - When Towers are closed, Airspace reverts to Class E or G
-
     - Special Use Airspaces: [can access]
         - Military Operations Area (MOA) [YES]
         - Controlled Firing Area [YES]
@@ -256,14 +260,23 @@ Systems:
                 - Altitude
                 - Vertical Speed
             - Blocked pitot tube indicated by airspeed reading 0
-        
+        Vacuum System:
+            - 2 Engine driven pumps pull air through tubing to spin gyros for the 
+                - Attitude Indicator
+                - Directional Indicator (HSI)
+                - Function indicated via Suction Gauge
+                - Failure indicated by Annuciator Panel Light or Suction gauge reading 0
 
+Aeromedical:
+
+        
 QUESTIONS
 =========
 What inspections/work is done on an Annual or 100hr inspection?
 Compass Inspection Period? 
 What Gagues run on vacuum system?
 Advisory Circulars, where do I find them? How do I know about them?
+Best place to find NOTAMS?
 Airmets vs Sigmets? 
 Airworthness Directives, where do I find them? How do I know about them?
 What Constitues 'Anti-Collision' Lights? Beacon? Strobes?
@@ -272,3 +285,4 @@ Still need radio & Transponder if in class E and under B/C shelves?
 How Do I get permission to fly in Special Use Airspaces?
 Why Ailerons neutral in spin recovery? Why wouldn't you want to turn against the spin?
 What engine does 73924 have? Fuel tanks?
+Do I need to carry anything on my person when flying under BasicMed?
