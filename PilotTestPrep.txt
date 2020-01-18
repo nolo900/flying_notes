@@ -1,13 +1,20 @@
 Pilot Test Prep
 ===============
 
-Airplane Inspections:
+Airplane Inspections: 91.413
     - Annual
     - 100hr (Only needed for aircraft used for Compensation or Hire)
-    - Transponder -> 24mo
+    - Transponder -> 24mo (Does this apply to ADSB-OUT?)
     - Pitot Static -> 24mo
     - ELT -> 12mo (Replace Battery after 1/2 of life or 30mins of use)
     - Maintain Airworthness Directives ( typical for Cessnas -> ['Inspect Fuel Lines', 'Replace Air Filter', 'Inspect Seat Track'])
+    - IFR -> Calibrated 
+    
+Pitot Static System: 91.205
+    - Airspeed (pitot tube)
+    - Vertical Speed Indicator
+    - Altimeter
+
 
 Pilot Currency:
     - Flight Review -> every 2yrs
