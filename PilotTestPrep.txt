@@ -273,4 +273,22 @@ Systems:
                 - Directional Indicator (HSI)
                 - Function indicated via Suction Gauge
                 - Failure indicated by Annuciator Panel Light or Suction gauge reading 0
+
+
+
+
+Why does altitude move in the same direction as barometric pressure when adjusting the altimeter?
+
+The way I always think about it is with the airplane sitting on the ground.
+Imagine an airplane at an airport at 500 ft. ASL. The atmospheric pressure outside is standard 29.92", 
+so the indicated altitude is 500 ft. ASL. Now imagine a lower pressure system moving in over night, 
+and the next day, you go back and look at the altimeter. Say the new atmospheric pressure is now 28.92". 
+Under standard conditions at this aerodrome, 28.92" of pressure is encountered at 1,500 ft. ASL, or 1,000 ft. AGL. 
+So, the altimeter interprets this new low pressure system as a climb up 1,000 ft. The altimeter is now 
+indicating 1,500 ft.
+
+So, the current altimeter setting is 1" too high (pressure went from 29.92" yesterday to 28.92" now). 
+The altimeter is also reading too high, at 1,500 ft. indicated. The way to correct for this is to 
+lower your altimeter setting, which is to set it at 28.92". This brings your altimeter's reading back 
+down to 500 ft. AGL.                
                 
